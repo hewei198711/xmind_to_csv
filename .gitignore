@@ -1,0 +1,15 @@
+__pycache__/*
+*.pyc
+.python-version
+venv/*
+.idea/*
+.vscode
+=======
+__pycache__
+*.pyc
+.python-version
+venv
+.idea
+*.vscode
+allure-report/*
+reports
